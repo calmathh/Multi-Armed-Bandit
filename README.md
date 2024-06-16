@@ -1,4 +1,4 @@
-There are 3 files in this this GitHub which is how I've tried to interpret a multiarmed Bandit Problem as of Seasons of Code'24,WnCC
+There are 3 files in this this GitHub which is how I've tried to interpret a multiarmed Bandit Problem as of Seasons of Code'24-Assignment-1,WnCC
 Essentially the Problem has 5 buttons -each with the 5 different ditributions(Gaussian,Binomial,Poisson,Exponential and a random function which chooses any one distribution out of the rest 4)
 so there's 100 timesteps which make an episode and the rewards at the end of each episode are plotted using Matplotlib run for 1000 episodes
 FILE-EXPLOIT EACH
